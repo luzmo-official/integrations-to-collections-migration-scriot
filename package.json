@@ -1,0 +1,16 @@
+{
+  "name": "integrations-to-collections-migration-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@luzmo/nodejs-sdk": "^1.2.1",
+    "dotenv": "^16.3.1"
+  }
+}
